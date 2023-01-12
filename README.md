@@ -1,4 +1,5 @@
-# NameThat🐟 by Daniel Lee, Alex Li, Yifan Zong
+# NameThat🐟
+### by Daniel Lee, Alex Li, Yifan Zong
 A fish identifier for anglers and fish hobbyists
 
 ## Demo
